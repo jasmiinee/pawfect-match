@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pawfect-match/static/css/main.9938ce1b.css",
-    "main.js": "/pawfect-match/static/js/main.946bd9f8.js",
+    "main.css": "/pawfect-match/static/css/main.bfe4326b.css",
+    "main.js": "/pawfect-match/static/js/main.67aa28bb.js",
     "static/js/488.35d8df9c.chunk.js": "/pawfect-match/static/js/488.35d8df9c.chunk.js",
     "static/media/homepage.png": "/pawfect-match/static/media/homepage.216a409f602a067fa21f.png",
     "static/media/page7.png": "/pawfect-match/static/media/page7.8ffa772f3989f04e1bdb.png",
@@ -30,12 +30,12 @@
     "static/media/poodle.png": "/pawfect-match/static/media/poodle.f867afcf620537b66a66.png",
     "static/media/cocker_spaniel.png": "/pawfect-match/static/media/cocker_spaniel.2cfd6869edc9b160315a.png",
     "index.html": "/pawfect-match/index.html",
-    "main.9938ce1b.css.map": "/pawfect-match/static/css/main.9938ce1b.css.map",
-    "main.946bd9f8.js.map": "/pawfect-match/static/js/main.946bd9f8.js.map",
+    "main.bfe4326b.css.map": "/pawfect-match/static/css/main.bfe4326b.css.map",
+    "main.67aa28bb.js.map": "/pawfect-match/static/js/main.67aa28bb.js.map",
     "488.35d8df9c.chunk.js.map": "/pawfect-match/static/js/488.35d8df9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9938ce1b.css",
-    "static/js/main.946bd9f8.js"
+    "static/css/main.bfe4326b.css",
+    "static/js/main.67aa28bb.js"
   ]
 }
