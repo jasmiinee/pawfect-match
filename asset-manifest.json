@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pawfect-match/static/css/main.f0f4e94d.css",
-    "main.js": "/pawfect-match/static/js/main.c2a51ef7.js",
+    "main.js": "/pawfect-match/static/js/main.cd5d73c9.js",
     "static/js/488.35d8df9c.chunk.js": "/pawfect-match/static/js/488.35d8df9c.chunk.js",
     "static/media/homepage.png": "/pawfect-match/static/media/homepage.216a409f602a067fa21f.png",
     "static/media/page7.png": "/pawfect-match/static/media/page7.8ffa772f3989f04e1bdb.png",
@@ -17,11 +17,11 @@
     "static/media/page9.png": "/pawfect-match/static/media/page9.4f06fcdaa4e0ab97bf09.png",
     "index.html": "/pawfect-match/index.html",
     "main.f0f4e94d.css.map": "/pawfect-match/static/css/main.f0f4e94d.css.map",
-    "main.c2a51ef7.js.map": "/pawfect-match/static/js/main.c2a51ef7.js.map",
+    "main.cd5d73c9.js.map": "/pawfect-match/static/js/main.cd5d73c9.js.map",
     "488.35d8df9c.chunk.js.map": "/pawfect-match/static/js/488.35d8df9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f0f4e94d.css",
-    "static/js/main.c2a51ef7.js"
+    "static/js/main.cd5d73c9.js"
   ]
 }
