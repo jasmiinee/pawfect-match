@@ -1,70 +1,43 @@
-# Getting Started with Create React App
+# Pawfect Match
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pawfect Match is a fun and interactive personality quiz website that matches users to a dog breed based on their responses. This project is designed to enhance user engagement through a visually appealing interface and dynamic user experience.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Interactive Quiz**: Engaging questions that determine your perfect dog breed match.
+- **User-Friendly Design**: Built with React.js, HTML, and CSS for a seamless and responsive user experience.
+- **Dynamic Matching**: Matches users to one of 10 popular dog breeds, including Golden Retriever, Beagle, and Poodle.
 
-### `npm start`
+## Website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Check out the live website here: [Pawfect Match](https://jasmiinee.github.io/pawfect-match/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **Frontend**: React.js, HTML, CSS
+- **Version Control**: Git, GitHub
+- **Responsive Design**: CSS Media Queries for optimal viewing on any device
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Start the quiz and answer the personality-based questions.
+2. Receive your matching dog breed at the end of the quiz.
+3. Share your results with friends!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Dog Breeds Included
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![pawfect match breeds](https://github.com/user-attachments/assets/113d5d72-e15b-438e-9020-8375e8a19499)
 
-### `npm run eject`
+- Golden Retriever
+- Beagle
+- Poodle
+- Collie
+- Bulldog
+- German Shepherd
+- Cocker Spaniel
+- Doberman
+- Dachshund
+- Pomeranian
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
